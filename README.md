@@ -9,7 +9,7 @@
 **Level:** undergraduate  - Freshman (1st year)  
 **Position Title:** Student  
 **Course Webpage:** [IDS 2024S](https://www.cdslab.org/)https://www.cdslab.org/  
-**Photo:**  ![Photo of Devashish Patel](https://th.bing.com/th/id/OIP.o1MbAtppLgYcrWwd5Aaf_QAAAA?rs=1&pid=ImgDetMain)
+**Photo:**  ![Photo of Devashish Patel](20230816_160924.jpg)
 
 
 
