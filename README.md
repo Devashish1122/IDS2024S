@@ -9,7 +9,7 @@
 **Level:** undergraduate  - Freshman (1st year)  
 **Position Title:** Student  
 **Course Webpage:** (https://www.cdslab.org/)https://www.cdslab.org/  
-**Photo:** 
+**Photo:**  
 
 
 
