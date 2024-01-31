@@ -1,4 +1,4 @@
-#### IDS2024S
+##### IDS2024S
 
   **IDS2024S, INTRODUCTION TO DATA SCIENCE, SPRING 2024**       
 **Name:** Devashish Patel  
@@ -11,7 +11,7 @@
 **Course Webpage:** [IDS 2024S](https://www.cdslab.org/)https://www.cdslab.org/  
 **Photo:**  ![Photo of Devashish Patel](20230816_160924.jpg)
 
-##  Description of the project’s content  
+#####  Description of the project’s content  
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
 
   homework: (the homework hyperlink should take the reader to the homework folder)
