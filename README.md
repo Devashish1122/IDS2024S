@@ -23,7 +23,10 @@ This directory contains all my quiz submissions, each of which is a folder prope
  +  [exam](./exam):   
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
-For questions and troubleshooting, please contact:
+> I had not failed I just found 1000 ways which won't work.  
+> - Thomas Edison.
+
+**For questions and troubleshooting, please contact:**   
 
 Devashish Patel  
 pateldevashish1122@gmail.com  
