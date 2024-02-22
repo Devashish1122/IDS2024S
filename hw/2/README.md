@@ -1,5 +1,5 @@
 this file has my homework 2.  
-1) 
+1) i) +[THE PROGRAMMING CHART](programming history chart\.) 
 ii) Here are the languages sorted chronologically:  
     Algol 58, Lisp, Fortran, BASIC, C, C++, Fortran 90, Python, Java, JavaScript, C#, sh (Bourne Shell).  
     
