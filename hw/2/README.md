@@ -1,5 +1,5 @@
 this file has my homework 2.  
-1) i) +[THE PROGRAMMING CHART](programming history chart/.)  
+1) i) + [THE PROGRAMMING CHART](programminghistorychart/.)     
 ii) Here are the languages sorted chronologically:  
     Algol 58, Lisp, Fortran, BASIC, C, C++, Fortran 90, Python, Java, JavaScript, C#, sh (Bourne Shell).  
     
@@ -19,4 +19,4 @@ iii)Algol 58 - 1950s
   
 2)ENIAC stands for "Electronic Numerical Integrator and Computer."
   
-3)  
+3) 
