@@ -1,18 +1,8 @@
-this file has my homework 2.
+this file has my homework 2.  
 1) 
 ii) Here are the languages sorted chronologically:  
-    Algol 58  
-    Lisp  
-    Fortran  
-    BASIC  
-    C  
-    C++  
-    Fortran 90  
-    Python  
-    Java  
-    JavaScript  
-    C#  
-    sh (Bourne Shell)
+    Algol 58, Lisp, Fortran, BASIC, C, C++, Fortran 90, Python, Java, JavaScript, C#, sh (Bourne Shell).  
+    
 
 iii)Algol 58 - 1950s  
     Lisp - 1950s  
@@ -26,5 +16,7 @@ iii)Algol 58 - 1950s
     JavaScript - 1990s  
     C# - 2000s  
     sh (Bourne Shell) - 1970s  
-2)  ENIAC stands for "Electronic Numerical Integrator and Computer."
+  
+2)ENIAC stands for "Electronic Numerical Integrator and Computer."
+  
 3)  
