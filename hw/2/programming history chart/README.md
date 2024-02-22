@@ -1,1 +1,1 @@
- ![pdf for the programming chart](progLangChartPuzzle.pdf)
+ ![pdf for the programming chart](progLangChartPuzzle.jpg)
