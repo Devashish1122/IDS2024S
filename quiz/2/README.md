@@ -26,4 +26,6 @@
 26)  C.
 
 27)  ABC for python.
-30) HDD is long lasting.
+28)  -
+29)  -
+30)  HDD is long lasting.
