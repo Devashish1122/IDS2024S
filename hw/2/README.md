@@ -33,5 +33,27 @@ iii)Algol 58 - 1950s
 11) 'B' is the ancestor of C.  
 12) 'C' is the ancestor of C++.  
 13) 'ABC' is the ancestor of python, and 'Fortan' is the ancestor of MATLAB.  
-14) The 3 common types of error in computer programming are: syntax error, runtime error, and semantic error.  
-15) A memory leak is a type of resource management error.   
+14) CPU cache is the fastest part of the memory in the memory hierarchy of modern computers.  
+15) bit.  
+16) fdd  
+17) It is much faster compared to SSD hard drives but, the exact speed difference can vary depending on specific hardware configurations and technologies.  
+18) The exact speed difference can vary depending on specific hardware configurations and technologies, but RAM access is generally thousands to tens of thousands of times faster than accessing data from HDDs.  
+19) The three basic role of the transistor are:  
+ Base: The base controls whether current is allowed to flow through the transistor when power is applied.  
+Collector: When there is the power to the base, the collector current is allowed to flow toward the emitter.  
+Emitter: The emitter takes the electric current that the collector is allowed to send to be used on other parts of your circuit.  
+20) yes it is true but there can be more limitation such as more power consumption and generation of more heat.  
+21) The three task accomploished by the CPU cycle are fetch, decode, and execute.
+22) yes, it can be slower then slow CPU cycle because it would be having an higher clock speed.  
+23) Yes, a powerful computer with more CPU cycles can be slower than a computer with less CPU cycles.  
+24) 
+Dennard Scaling: Refers to the trend where as transistors become smaller, their power density remains constant, allowing for faster and more efficient chips.  
+
+MOSFET Scaling: Involves shrinking the size of MOSFETs to increase transistor density and improve performance, efficiency, and cost.  
+
+Moore's Law: An observation stating that the number of transistors on a chip doubles approximately every two years, leading to exponential growth in computing power and performance.  
+25)     
+1) 64.  
+2) we would need 2080 grains.   
+3) 0.2971 pounds.  
+26)
