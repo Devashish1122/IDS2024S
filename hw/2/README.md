@@ -52,8 +52,6 @@ Dennard Scaling: Refers to the trend where as transistors become smaller, their 
 MOSFET Scaling: Involves shrinking the size of MOSFETs to increase transistor density and improve performance, efficiency, and cost.  
 
 Moore's Law: An observation stating that the number of transistors on a chip doubles approximately every two years, leading to exponential growth in computing power and performance.  
-25)     
-1) 64.  
+25) 1)64 grains.  
 2) we would need 2080 grains.   
 3) 0.2971 pounds.  
-26)
