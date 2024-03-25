@@ -7,4 +7,6 @@ ex- A - All mammals are warm-blooded;
 For Plausible reasoning, The evidence does not prove that A is true, but verification of one of its consequences does
 give us more confidence in A.  
 ex - A - it will start to rain by 10 am at the latest;  
-   B - the sky will become cloudy before 10 am.  
+   B - the sky will become cloudy before 10 am.
+4) Here we can use deductive reasoning, . 'A' establishes a general principle that individuals engaged in exiting a jewelry store through a broken window with stolen goods are likely involved in a burglary. 'B' provides specific information about the gentleman's actions, confirming that he fits the criteria described in the first premise. Thus, based on deductive reasoning, the conclusion is drawn that the gentleman is likely dishonest and involved in the burglary.
+5) 
