@@ -5,4 +5,4 @@
 (III) Consistency.
 
 ![photo1](img3.jpg)
-![photo1](img4.jpg)
+![photo2](img4.jpg)
