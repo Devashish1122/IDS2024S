@@ -6,4 +6,4 @@
 6)  The range of probablity is from 0 to 1. And it is necessity of the definition of probability.    
 7)  the principle of probablity applied is degree of belief.    
 8)       
-![image 5](img.jpg)
+![image 5](img5.jpg)
