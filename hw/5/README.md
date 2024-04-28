@@ -22,8 +22,10 @@ Temperature:Quantitative, Numerical, Continuous, Ordered.
 14) 2) honolulu is hotter.    
     3) honolulu has less flactuating temprature.     
     4) the only correlation with the temprature is it reduces and increases but the thing is different for both cities in which one of them gets a bit colder and honolulu stays hotter by just reducing to a certain level.   
-    5) -   
+    5) -     
 17) Classical Probability, bayseian probablity, frequentist probablity, propensity.   
-18) 4) out of these 2 second one is the  best model for better representation of reality. And also second one predicts more risen in temprature in the future.     
-19) ther are 2 animals which is visible to me which are forg and if we concentrate more and start it from the top we can also see a horse.
-20) I will pick the bottom left mathstick from '8' by making it '9' and then put it in middle of '0' making it an '8'. so the equation would be 9 + 3 - 4 = 8.
+18)   
+19) 4) out of these 2 second one is the  best model for better representation of reality. And also second one predicts more risen in temprature in the future.      
+20) ther are 2 animals which is visible to me which are forg and if we concentrate more and start it from the top we can also see a horse.
+21) I will pick the bottom left mathstick from '8' by making it '9' and then put it in middle of '0' making it an '8'. so the equation would be 9 + 3 - 4 = 8.    
+ ![question 16](img6.jpg).  
