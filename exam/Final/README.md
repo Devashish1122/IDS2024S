@@ -25,4 +25,5 @@ For Plausible reasoning, The evidence does not prove that A is true, but verific
 ex - A - it will start to rain by 10 am at the latest;  
 B - the sky will become cloudy before 10 am.  
 18.  When the both side of the propositions have same truth value they are said to be equal boolean propositions.  
-20. no we cannot represent all real numbers in computers.    
+20. no we cannot represent all real numbers in computers.   
+![15,19,21](img7/.).
