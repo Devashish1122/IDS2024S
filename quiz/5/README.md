@@ -23,4 +23,5 @@ joined to data values at the other end.
 15)  a - qualitative data scale. , b - sequential data scale. , c - diverging color scale , d - accenet color scale.
 16)  accent color scale is used in this.
 17)  The unit used in this graph for the weekend gross in million dollars is very high that we cannot clearly identify the values of greatest showman and ferdinand. the unit if turned into the square root value it would be more simpler to learn.
-18)  
+18)  [chart](table/.).  
+19)  according to the trend of the chart as it is moving upwards more like increament in the temprature probably the temprature for the upconing years is more likely to be increase like 3 degree celcius more.    
