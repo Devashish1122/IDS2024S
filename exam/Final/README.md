@@ -12,7 +12,7 @@ this file contains mu final exam.
 8.  Bayesian probability.  
 9.  Bayseian probability.   
 10.    
-11.    
+11. it is wrong because all of the information set to be 1 whiich is not the correct calculation method used to determine the amount of people. this is not understandable and the value cannot be determined.
 12. Because the electronic part of the computer only understands the term on and off which are represented by 0 and 1.   
 13. B.    
 14. Fortran.    
