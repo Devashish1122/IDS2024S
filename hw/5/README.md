@@ -18,7 +18,7 @@ Temperature:Quantitative, Numerical, Continuous, Ordered.
   Color can also be used to represent data values, such as income, temperature, of speed. In this case, we use a sequential color scale.   
   In some cases, we need to visualize the deviation of data values in one of two directions relative to a neutral midpoint. in this case we use diverging color scale.  
   Color can also be an effective tool to highlight specific elements in the data. this can be done through accent color scale.
-13) for humans 1st one is better for visulization.  
+13) for humans 2nd one is better for visulization.  
 14) 2) honolulu is hotter.    
     3) honolulu has less flactuating temprature.     
     4) the only correlation with the temprature is it reduces and increases but the thing is different for both cities in which one of them gets a bit colder and honolulu stays hotter by just reducing to a certain level.   
