@@ -1,6 +1,6 @@
 this file contains mu final exam.   
 2. All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as aesthetics. some of the aesthetics are size, color, line width, etc.   
-3. the first one is more appropriate.   
+3. the second one is more appropriate.   
 4. a - qualitative data scale. , b - sequential data scale. , c - diverging color scale , d - accenet color scale.   
 5. the three pillar of science are experiment, theory, and data.   
 6. no, the logical implication is not the same as physical cautions. some of the real world example is rain. many forecasters by their logical thinking makes the assumptions of when to rain byb surfing their data but rain is an natural cause there is no guarentee when will it fell.   
