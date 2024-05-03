@@ -16,4 +16,11 @@ joined to data values at the other end.
 11) color is an categorical and unordered aestheics.
 12) the second one which is drawn with black.
 13) the very first one is the correct answer.
-14) 
+14) houston's temperature is the least varying throughout the year.  
+  chicago's temperature is the wildest varying throughout the year.  
+  san diego is the hottest in the month of January.  
+  san diego is the coolest in the month of July.  
+15)  a - qualitative data scale. , b - sequential data scale. , c - diverging color scale , d - accenet color scale.
+16)  accent color scale is used in this.
+17)  The unit used in this graph for the weekend gross in million dollars is very high that we cannot clearly identify the values of greatest showman and ferdinand. the unit if turned into the square root value it would be more simpler to learn.
+18)  
