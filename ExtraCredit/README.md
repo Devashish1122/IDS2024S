@@ -1,0 +1,11 @@
+The piece of our course which was given to me was most of about the Version control system, project management and branching, and Git/Github.  
+this part takes us to the depth of VCS (version control system) its 3 parts and also summarizes all of them. After that it concentrates to the VCS   
+which we are going to b learn more through out the course which is distributed Version control syste (DVCS). after then it Further takes us to another important    
+part which is to know what the different kinds of DVCS are. Then we focus on git and github which is further very useful to us in many ways. After completion of the VCS topic,    
+then we read how to set up an project inside the git. it is very well explained by the diagram or the pictures that shows what to write and where to write.   
+the exact location of the place to set up the project can be easily known through the pictures. Even for different laptos such as macbook, chromebook, or any other android laptops.  
+the link and the perfect instruction are given so that the readers do not get confused as everyone does not have a same PC.  
+After that, Different kind of git commands are also explained which are further seprated and written inside the box so that it does not mixes up with the content.   
+afte git commands the branching of the project with git is expalined.    
+This was taught when we started the semester. the best thing about the writtings are the steps which are as a form of pictures or screenshots as someone is doing the things  
+and capturing the sscreenshots after every steps.
