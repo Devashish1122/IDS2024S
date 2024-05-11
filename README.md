@@ -15,13 +15,14 @@
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:
 
  + [homework](./hw):  
-This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
-
- + [quiz](./quiz):   
-This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
-
+This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.  
++  [extracredits](./ExtraCredit):   
+This directory contains my extra credit works.  
+ + [quiz](./quiz):     
+This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
+  
  +  [exam](./exam):   
-This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+This directory contains all my exam submissions, each of which is a fo lder properly named with exam name or number, containing the exam submission.
 
 > I had not failed I just found 1000 ways which won't work.  
 > - Thomas Edison.
