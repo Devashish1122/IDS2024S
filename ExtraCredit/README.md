@@ -8,4 +8,6 @@ the link and the perfect instruction are given so that the readers do not get co
 After that, Different kind of git commands are also explained which are further seprated and written inside the box so that it does not mixes up with the content.   
 afte git commands the branching of the project with git is expalined.    
 This was taught when we started the semester. the best thing about the writtings are the steps which are as a form of pictures or screenshots as someone is doing the things  
-and capturing the sscreenshots after every steps.
+and capturing the sscreenshots after every steps.  
+another thing i liked that i had already mentioned is for every type of Laptops there is a link or different steps written so that one with another kind of pc does not  stay behind.  
+Honestly, i dont know how teaching works but then to if i was tell to find any negative part about this writing it would be nothing because it is perfect the reader quickly gets it what the writer is trying to say and if he/she does not the images and videos do their works instead.  
